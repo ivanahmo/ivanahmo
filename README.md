@@ -1,7 +1,7 @@
 # Hey!
 
-Student from Uberlândia, MG, Brazil
+Uberlândia, MG, Brazil
 
-Trying to do something cool
+Web development student
 
 ivimatoli@gmail.com
